@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+body{
+    font-family: 'Prompt', sans-serif !important;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+}
+
+.sidebar-link, a.sidebar-link{
+    font-size: 18px;
+}
+
+.sidebar-dropdown .sidebar-link{
+    font-size: 16px;
+}
